@@ -1,0 +1,12 @@
+export const AUTHENTICATION = 'AUTHENTICATION';
+export const TOGGLE_MENU = 'TOGGLE_MENU';
+export const LOGOUT_TOGGLE = 'LOGOUT_TOGGLE';
+export const NAVIGATION = 'NAVIGATION';
+export const ACCOUNT = 'ACCOUNT';
+export const ALL_TODOS = 'ALL_TODOS';
+export const COMPLETED = 'COMPLETED';
+export const PENDING = 'PENDING';
+export const TOGGLE_MODAL = 'TOGGLE_MODAL';
+export const REFRESH = 'REFRESH';
+export const CURRENT_ID = 'CURRENT_ID';
+export const USERNAME = 'USERNAME';
